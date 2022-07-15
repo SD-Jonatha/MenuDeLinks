@@ -37,9 +37,9 @@ img {
 
 img.avatar {
   border-radius: 58%;
-  width: 100px;
-  height: 100px;
-  padding: 3.7px;
+  width: 250px;
+  height: 250px;
+  padding: 1.7px;
   border: #89d5ec solid 4px;
 }
 
