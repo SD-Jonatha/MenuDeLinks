@@ -23,20 +23,8 @@ body {
 body.dark {
   --bg-color: #f48dba;
   --text-color: #ffffff;
-  display: flex;
-  width: 100%;
-  height: 100vh;
-  max-height: 100%;
-  align-items: center;
-  justify-content: center;
+
   animation: change 13s infinite;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 .container {
